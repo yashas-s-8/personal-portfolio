@@ -1,4 +1,4 @@
-import parthmittal from "./parth.svg";
+import 😎Yashas from "./parth.svg";
 import profilePic from "./profile-pic.jpg";
 import menu from "./menu.svg";
 import close from "./close.svg";
@@ -52,7 +52,7 @@ export {
   genesis,
   portfolio,
   cdc,
-  parthmittal,
+  😎Yashas,
   profilePic,
   chargeswap,
   placeicon,

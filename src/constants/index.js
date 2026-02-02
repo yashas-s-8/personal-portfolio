@@ -91,9 +91,9 @@ import { RiGeminiFill } from "react-icons/ri";
 
 export const resumeLink =
   "https://drive.google.com/file/d/1vkxyMDB5_KpMwt4QXFgT2aqdRizr8Czh/view?usp=sharing";
-export const repoLink = "https://github.com/mittal-parth/personal-portfolio";
+export const repoLink = "https://github.com/Yashas-parth/personal-portfolio";
 
-export const callToAction = "https://www.linkedin.com/in/mittal-parth";
+export const callToAction = "https://www.linkedin.com/in/Yashas-parth";
 
 export const navLinks = [
   {
@@ -159,7 +159,7 @@ export const achievements = [
     content2: "Polkadot's 1st Runner Up, Lit Protocol's 2nd Runner Up",
     content3: "Coinbase Pool Prize, Base Top 10",
     article:
-      "https://www.linkedin.com/posts/mittal-parth_super-stoked-to-announce-that-our-team-emerged-activity-7274735259621961729-tkq4?utm_source=share&utm_medium=member_desktop",
+      "https://www.linkedin.com/posts/Yashas-parth_super-stoked-to-announce-that-our-team-emerged-activity-7274735259621961729-tkq4?utm_source=share&utm_medium=member_desktop",
     project: "https://devfolio.co/projects/khoj-3336",
     youtube:
       "https://www.youtube.com/live/qJ4OCtnvjUY?si=VkcnHEdwJTEEDlMg&t=4718",
@@ -187,7 +187,7 @@ export const achievements = [
     content2: "",
     content3: "",
     article:
-      "https://www.linkedin.com/posts/mittal-parth_hackathon-winners-web3-activity-7048340759116214272-eJvo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADOa76QB7zljgX8NK4xVSZXi0Z49ETMeC-g",
+      "https://www.linkedin.com/posts/Yashas-parth_hackathon-winners-web3-activity-7048340759116214272-eJvo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADOa76QB7zljgX8NK4xVSZXi0Z49ETMeC-g",
     github: "https://github.com/pranav2305/GreenTrust",
   },
   {
@@ -240,7 +240,7 @@ export const achievements = [
     content2: "",
     content3: "",
     article:
-      "https://www.linkedin.com/posts/mittal-parth_happy-to-share-that-comicifyai-emerged-as-activity-7078790186435833856-88fh",
+      "https://www.linkedin.com/posts/Yashas-parth_happy-to-share-that-comicifyai-emerged-as-activity-7078790186435833856-88fh",
   },
   {
     id: "a-9",
@@ -252,7 +252,7 @@ export const achievements = [
     content2: "",
     content3: "",
     youtube: "https://www.youtube.com/watch?v=X2473En3h_o&t=5278s",
-    project: "https://parthmittal.netlify.app/",
+    project: "https://parthYashas.netlify.app/",
   },
   {
     id: "a-10",
@@ -593,7 +593,7 @@ export const projects = [
   {
     id: "project-1",
     title: "Khoj",
-    github: "https://github.com/mittal-parth/Khoj",
+    github: "https://github.com/Yashas-parth/Khoj",
     link: "https://playkhoj.com/",
     image: khoj,
     content:
@@ -639,7 +639,7 @@ export const projects = [
   {
     id: "project-2",
     title: "Hackathon Curation AI Agent",
-    github: "https://github.com/mittal-parth/hackathon-curation-agent",
+    github: "https://github.com/Yashas-parth/hackathon-curation-agent",
     image: hackathon_curation_agent,
     content:
       "An intelligent agent that automatically curates hackathons from your email newsletters, evaluates them using AI, and posts the best ones to Twitter.",
@@ -715,7 +715,7 @@ export const projects = [
   {
     id: "project-4",
     title: "Polkadot Dev CLI",
-    github: "https://github.com/mittal-parth/polkadot-dev-cli",
+    github: "https://github.com/Yashas-parth/polkadot-dev-cli",
     link: "https://crates.io/crates/polkadot-dev-cli",
     image: polkadot_dev_cli,
     content:
@@ -757,7 +757,7 @@ export const projects = [
   {
     id: "project-6",
     title: "GreenTrust",
-    github: "https://github.com/mittal-parth/GreenTrust",
+    github: "https://github.com/Yashas-parth/GreenTrust",
     link: "https://green-trust-fantom.netlify.app/",
     image: greentrust,
     content:
@@ -845,7 +845,7 @@ export const projects = [
     id: "project-8",
     title: "Samsotech Table Management System",
     github: "",
-    link: "https://www.linkedin.com/posts/mittal-parth_technologysolutions-softwaredevelopment-technology-activity-6994915645066809344-WnMY?utm_source=share&utm_medium=member_desktop",
+    link: "https://www.linkedin.com/posts/Yashas-parth_technologysolutions-softwaredevelopment-technology-activity-6994915645066809344-WnMY?utm_source=share&utm_medium=member_desktop",
     image: placeicon,
     content:
       "Restaurant, Place, Table and realtime Reservation Management with Multi-Tenant Architecture, RBAC, SMS and Email integration for Samsotech International",
@@ -905,8 +905,8 @@ export const projects = [
   {
     id: "project-10",
     title: "Portfolio",
-    github: "https://github.com/mittal-parth/personal-portfolio",
-    link: "https://parthmittal.netlify.app/",
+    github: "https://github.com/Yashas-parth/personal-portfolio",
+    link: "https://parthYashas.netlify.app/",
     image: portfolio,
     content: "Open source developer portfolio template with modern UI/UX. 140+ stars on GitHub.",
     stack: [
@@ -930,7 +930,7 @@ export const projects = [
   {
     id: "project-11",
     title: "Kosh SDK",
-    github: "https://github.com/mittal-parth/kosh-sdk",
+    github: "https://github.com/Yashas-parth/kosh-sdk",
     link: "https://ethglobal.com/showcase/kosh-hk3mp",
     image: kosh,
     content:
@@ -1131,34 +1131,34 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: AiFillLinkedin,
-    link: "https://www.linkedin.com/in/mittal-parth",
+    link: "https://www.linkedin.com/in/Yashas-parth",
   },
   {
     id: "social-media-2",
     icon: AiFillGithub,
-    link: "https://www.github.com/mittal-parth",
+    link: "https://www.github.com/Yashas-parth",
   },
   {
     id: "social-media-3",
     icon: AiFillMail,
-    link: "mailto:work.parthmittal@gmail.com",
+    link: "mailto:work.parthYashas@gmail.com",
   },
   {
     id: "social-media-4",
     icon: AiOutlineTwitter,
-    link: "https://www.twitter.com/mittalparth_",
+    link: "https://www.twitter.com/Yashasparth_",
   },
   {
     id: "social-media-5",
     icon: AiFillInstagram,
-    link: "https://www.instagram.com/mittalparth_",
+    link: "https://www.instagram.com/Yashasparth_",
   },
 ];
 
 // Your professional summary
 export const aboutMe = {
-  name: "Parth Mittal",
-  githubUsername: "mittal-parth",
+  name: "Parth Yashas",
+  githubUsername: "Yashas-parth",
   tagLine:
     "MTS @ Oracle | 12x Hackathon Winner 🏆 | ETHIndia'22,24 Winner | NITK'24 | PBA-5",
   intro:
