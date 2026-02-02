@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { close, 😎Yashas, menu } from "../assets";
+import { close,Yashas, menu } from "../assets";
 import { navLinks } from "../constants";
 import { scrollToSection } from "../lib/helperFunctions";
 import { motion } from "framer-motion";

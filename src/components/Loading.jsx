@@ -1,6 +1,6 @@
 import styles from "../style";
 import { motion } from "framer-motion";
-import { 😎Yashas } from "../assets";
+import {Yashas } from "../assets";
 
 const Loading = () => {
   return (
